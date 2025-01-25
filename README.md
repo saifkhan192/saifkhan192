@@ -8,6 +8,9 @@
 ### Languages & Tools 🛠
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![NodeJS](https://img.shields.io/badge/node.js-339933?style=flat&logo=NodeJS)&nbsp;
+![ExpressJS](https://img.shields.io/badge/express.js-000000?style=flat&logo=ExpressJS)&nbsp;
+
 ![Shell](https://img.shields.io/badge/Shell-05122A?style=flat&logo=gnu-bash&logoColor=white)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
