@@ -1,6 +1,6 @@
 # Software Developer & DevOps Engineer
 
-- 🌱 I’m currently learning everything
+- 🌱 I’m currently learning everything in Backend Development and Cloud. Big fan of GitHub and open source projects
 - 👯 I’m looking to collaborate with other developers, especially for open-source work
 - 🥅 2025 Goals: Contribute more to Open Source projects and get at least 3 Cloud Certifications
 - ⚡ Fun fact: Travelling 
