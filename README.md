@@ -6,7 +6,7 @@
 - ⚡ Fun fact: Travelling
 
 ### Follow me here 🤝
-<a href="https://www.linkedin.com/in/saifullah-khan-02318086/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/saifullah-khan-02318086/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /></a>
 
 ### Contribution Graph
 <img alt="contributions" src="./contributions.png" />
