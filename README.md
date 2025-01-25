@@ -9,6 +9,13 @@
 <a href="https://www.linkedin.com/in/saifullah-khan-02318086/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 ![screenshot](contributions.png)
 
+<p align="center">
+  <img src="./contributions.png" width="350" title="contributions">
+  <img src="./contributions.png" width="350" alt="contributions">
+</p>
+
+![alt text](https://raw.githubusercontent.com/saifkhan192/saifkhan192/refs/heads/main/contributions.png)
+
 ![screenshot](./contributions.png)
 
 
